@@ -7,5 +7,3 @@
 				Template.SchDoc -> YourProjectName.SchDoc
 2) Populate Firmware folder with appropriate CCS/TrueStudio/Etc files.
 3) Populate Document folder with appropriate documents files for project.
-
-Practice Note
